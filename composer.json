@@ -1,5 +1,5 @@
 {
-    "name": "lajax/yii2-translate-manager",
+    "name": "rlucian/yii2-translate-manager",
     "description": "Translation management extension for Yii 2 with Bootstrap 5",
     "type": "yii2-extension",
     "keywords": ["yii2", "extension", "translate", "language", "module"],
